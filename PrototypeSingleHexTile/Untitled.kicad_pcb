@@ -1820,7 +1820,7 @@
   (gr_circle (center 113.89 40.43) (end 114.69 40.43) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp c917b48f-8241-43f0-87a0-4e9335e7083a))
   (gr_circle (center 93.59 40.43) (end 94.39 40.43) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp fb0a8889-07ea-4b99-8263-1ba29e352b77))
   (gr_line (start 126.04 58.01) (end 114.89 38.7) (layer "Edge.Cuts") (width 0.1) (tstamp fd577552-950f-4c87-a9a6-735f8aa655c0))
-  (gr_text "Designed by \nSebouh J. Paul\nsidelength=22.30 mm" (at 90.8 65.4 -60) (layer "B.SilkS") (tstamp 26d2b4e6-f919-47c6-87e4-ea54e71277d1)
+  (gr_text "Designed by \nSebouh J. Paul\nv1\nsidelength=22.30 mm" (at 90.8 65.4 -60) (layer "B.SilkS") (tstamp 26d2b4e6-f919-47c6-87e4-ea54e71277d1)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "LED1" (at 121.4 54.4 30) (layer "B.SilkS") (tstamp 2cea1c83-ad69-4dd8-b18b-e86f87c05d88)
