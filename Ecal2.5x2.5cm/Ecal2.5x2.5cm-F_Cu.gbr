@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.0.8-1)-1*%
-%TF.CreationDate,2023-06-07T12:03:49-04:00*%
+%TF.CreationDate,2023-06-07T12:10:09-04:00*%
 %TF.ProjectId,Ecal2.5x2.5cm,4563616c-322e-4357-9832-2e35636d2e6b,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L1,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.8-1)-1) date 2023-06-07 12:03:49*
+G04 Created by KiCad (PCBNEW (6.0.8-1)-1) date 2023-06-07 12:10:09*
 %MOMM*%
 %LPD*%
 G01*
@@ -65,16 +65,16 @@ X136949900Y-68852500D03*
 X136949900Y-71392500D03*
 %TD*%
 D12*
-%TO.P,50 nF,1*%
+%TO.P,10 nF,1*%
 %TO.N,N/C*%
 X130449900Y-70287500D03*
-%TO.P,50 nF,2*%
+%TO.P,10 nF,2*%
 X130449900Y-67337500D03*
 %TD*%
-%TO.P,50 nF,1*%
+%TO.P,10 nF,1*%
 %TO.N,N/C*%
 X130600000Y-57675000D03*
-%TO.P,50 nF,2*%
+%TO.P,10 nF,2*%
 X130600000Y-54725000D03*
 %TD*%
 D11*
@@ -88,10 +88,10 @@ D10*
 X136949900Y-53612500D03*
 %TD*%
 D13*
-%TO.P,50 nF,1*%
+%TO.P,10 nF,1*%
 %TO.N,N/C*%
 X95000000Y-67225000D03*
-%TO.P,50 nF,2*%
+%TO.P,10 nF,2*%
 X95000000Y-70175000D03*
 %TD*%
 D10*
@@ -156,10 +156,10 @@ X87950100Y-56147500D03*
 X87950100Y-53607500D03*
 %TD*%
 D13*
-%TO.P,50 nF,1*%
+%TO.P,10 nF,1*%
 %TO.N,N/C*%
 X94400000Y-54625000D03*
-%TO.P,50 nF,2*%
+%TO.P,10 nF,2*%
 X94400000Y-57575000D03*
 %TD*%
 D15*
