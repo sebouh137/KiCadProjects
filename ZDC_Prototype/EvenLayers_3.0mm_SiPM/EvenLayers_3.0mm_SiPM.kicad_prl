@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -73,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "EvenLayers_1.3mm_SiPM.kicad_prl",
+    "filename": "EvenLayers_3.0mm_SiPM.kicad_prl",
     "version": 3
   },
   "project": {

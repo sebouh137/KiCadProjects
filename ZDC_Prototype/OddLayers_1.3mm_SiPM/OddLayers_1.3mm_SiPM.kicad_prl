@@ -73,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "EvenLayers_1.3mm_SiPM.kicad_prl",
+    "filename": "OddLayers_1.3mm_SiPM.kicad_prl",
     "version": 3
   },
   "project": {
