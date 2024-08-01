@@ -219,7 +219,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EvenLayers_1.3mm_SiPM.kicad_pro",
+    "filename": "OddLayers_1.3mm_SiPM.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -257,7 +257,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "OddLayers_1.3mm_SiPM.step",
       "svg": "",
       "vrml": ""
     },
