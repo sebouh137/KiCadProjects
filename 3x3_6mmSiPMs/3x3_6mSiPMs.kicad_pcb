@@ -5736,6 +5736,14 @@
 		(uuid "13425339-fe8c-4483-a39d-481212b05b5c")
 	)
 	(segment
+		(start 111.3 35.915)
+		(end 111.585 35.915)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 0)
+		(uuid "17e35151-6a25-4d44-8db3-9055b660b6e9")
+	)
+	(segment
 		(start 108.9 46.1)
 		(end 112.085 46.1)
 		(width 0.2)
@@ -5822,6 +5830,14 @@
 		(layer "F.Cu")
 		(net 0)
 		(uuid "3d0e5b8a-b0e7-4ab0-8166-e07ef310720f")
+	)
+	(segment
+		(start 104.95 40.4)
+		(end 105.45 39.9)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 0)
+		(uuid "3e50fef0-7844-4f73-9235-7ce473999a42")
 	)
 	(segment
 		(start 97.45 52.1)
@@ -5974,6 +5990,14 @@
 		(layer "F.Cu")
 		(net 0)
 		(uuid "9f524816-992d-4f01-9452-210f197d2676")
+	)
+	(segment
+		(start 111.585 35.915)
+		(end 112 35.5)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 0)
+		(uuid "a7e5b406-e33a-40d9-b6ef-f44f97e76e2d")
 	)
 	(segment
 		(start 104.95 44.6)
@@ -6198,6 +6222,14 @@
 		(layers "F.Cu" "B.Cu")
 		(net 0)
 		(uuid "d2f81f2f-7a3e-4295-abc6-c352c465897d")
+	)
+	(segment
+		(start 89.335 53.36)
+		(end 93.975 58)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 0)
+		(uuid "013df4e5-7338-4029-90b3-5fd079b92ebc")
 	)
 	(segment
 		(start 86.56 41.46)
@@ -6680,6 +6712,14 @@
 		(uuid "7c6abcd0-58c4-4f04-8823-24e19aae439e")
 	)
 	(segment
+		(start 85.8 53.36)
+		(end 89.335 53.36)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 0)
+		(uuid "7cc9c3bf-28ac-4bba-998f-b231b3f54f5d")
+	)
+	(segment
 		(start 93.475 42.925)
 		(end 93.475 42)
 		(width 0.2)
@@ -6694,14 +6734,6 @@
 		(layer "B.Cu")
 		(net 0)
 		(uuid "84c6e90c-2db7-4d62-b5ec-aed6f61aca8b")
-	)
-	(segment
-		(start 89.335 53.36)
-		(end 93.975 58)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 0)
-		(uuid "88378cbf-a836-4080-b652-292ef5c5daf2")
 	)
 	(segment
 		(start 91.96 62.44)
@@ -6870,14 +6902,6 @@
 		(layer "B.Cu")
 		(net 0)
 		(uuid "b58b22a1-a3cc-41a9-880e-b7ae7c23ad73")
-	)
-	(segment
-		(start 85.8 53.36)
-		(end 88.835 53.36)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 0)
-		(uuid "b63b8266-720e-454e-bf6b-ff9e3d57ee85")
 	)
 	(segment
 		(start 97.16 34.06)
