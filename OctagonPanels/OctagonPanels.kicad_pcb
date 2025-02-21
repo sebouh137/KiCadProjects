@@ -6275,7 +6275,7 @@
 			)
 		)
 		(property "Value" "SAMTEC_HSEC8-113-01-X-DV-A-L2"
-			(at 6.985 -8.255 90)
+			(at 0 -8.255 90)
 			(layer "B.Fab")
 			(uuid "9de68210-8c6e-4833-89a0-960ec6cbc776")
 			(effects
@@ -7406,10 +7406,10 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Designed by \nSebouh J Paul\n\n1.3 mm SiPMs\n48.8 x 48.8 mm2 scint cells\nVersion 1"
-		(at 182.7 95.2 0)
+	(gr_text "Designed by \nSebouh J Paul\n\n1.3 mm SiPMs\n48.8 x 48.8 mm2 scint cells\nconnectors:\nSAMTEC_HSEC8-113-01-X-DV-A-L2 \nJST B3B-XH-A\ntemp sensor:\nLM94021QBIMGX/NOPB\ncapacitors:\nAGC0603X7R101-103KNP\nVersion 1"
+		(at 134.9 83.65 0)
 		(layer "B.SilkS")
-		(uuid "3bb5e77f-9c25-4fdf-ad32-d98b99f3f210")
+		(uuid "bbc6c251-d97d-45b7-b153-57fe12a467e3")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -7461,6 +7461,17 @@
 			(font
 				(size 5 5)
 				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "Designed by \nSebouh J Paul\n\n1.3 mm SiPMs\n48.8 x 48.8 mm2 scint cells\nVersion 1"
+		(at 182.7 95.2 -0)
+		(layer "F.SilkS")
+		(uuid "3bb5e77f-9c25-4fdf-ad32-d98b99f3f210")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
 			)
 		)
 	)
@@ -7517,17 +7528,6 @@
 			(font
 				(size 5 5)
 				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "Designed by \nSebouh J Paul\n\n1.3 mm SiPMs\n48.8 x 48.8 mm2 scint cells\nVersion 1"
-		(at 131.1 95.4 0)
-		(layer "F.SilkS")
-		(uuid "bbc6c251-d97d-45b7-b153-57fe12a467e3")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
 			)
 		)
 	)
