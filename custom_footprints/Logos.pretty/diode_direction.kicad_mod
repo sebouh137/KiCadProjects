@@ -1,0 +1,20 @@
+(footprint "diode_direction" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp eb66cc71-d4e6-42b1-a779-9bb323fa942f)
+  )
+  (fp_text value "diode_direction" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp cf01ae9c-9443-4944-8d62-205c8a85c8f7)
+  )
+  (fp_line (start -1.5 0) (end 1.5 0) (layer "F.SilkS") (width 0.12) (tstamp 67626c0e-5a98-4f40-817b-9dd7af9954ad))
+  (fp_line (start -0.4 0.6) (end -0.4 -0.7) (layer "F.SilkS") (width 0.12) (tstamp bcf742cb-884f-4d2a-a960-bf4e94360d3d))
+  (fp_poly (pts
+      (xy -0.4 0)
+      (xy 0.6 0.6)
+      (xy 0.6 -0.6)
+    ) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp 6f68d3ed-9f92-4656-ba74-ad6e78ab5dd6))
+)
