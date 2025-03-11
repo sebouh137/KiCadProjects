@@ -173,6 +173,8 @@
 	(net 52 "LED_input")
 	(net 53 "LED_input_after_resistor")
 	(net 54 "LED_23_to_24")
+	(net 55 "A25")
+	(net 56 "K25")
 	(footprint "SiPM:S14160-1315PS_dimple_silkscreen_with_LED_and_capacitor"
 		(layer "F.Cu")
 		(uuid "072f27e9-76fd-494c-8398-d5ffa37248e4")
@@ -7344,7 +7346,7 @@
 			(at 6.4 1.7 270)
 			(size 0.5 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(net 1 "GND")
+			(net 55 "A25")
 			(solder_mask_margin 0.102)
 			(uuid "605387ca-7884-414c-a90a-df60345f2887")
 		)
@@ -7352,7 +7354,7 @@
 			(at 6.4 -1.7 270)
 			(size 0.5 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(net 1 "GND")
+			(net 56 "K25")
 			(solder_mask_margin 0.102)
 			(uuid "20bb8b94-7a9a-4fba-b79a-85a8ed4eb19b")
 		)
@@ -27432,7 +27434,7 @@
 			(xy 346.9 70.2) (xy 346.9 35)
 		)
 		(height -12.4)
-		(gr_text "35.2 mm"
+		(gr_text "1.4 in"
 			(at 332.891574 51.801574 90)
 			(layer "F.SilkS")
 			(uuid "025646be-579d-4cdf-8f8d-9bd2457245f1")
@@ -27465,7 +27467,7 @@
 			(xy 345.5 325) (xy 345.5 35)
 		)
 		(height 0)
-		(gr_text "290.0 mm"
+		(gr_text "11.4 in"
 			(at 345.4 181.4 90)
 			(layer "F.SilkS")
 			(uuid "32afc2b6-466f-4f11-ae41-89ba96faebfa")
@@ -27498,7 +27500,7 @@
 			(xy 55 319) (xy 352 319.2)
 		)
 		(height -0.01)
-		(gr_text "297.0 mm"
+		(gr_text "11.7 in"
 			(at 197.3 318.9 359.961417)
 			(layer "F.SilkS")
 			(uuid "474d19b0-d5fb-44df-9654-66b14c3ab3bf")
@@ -27531,7 +27533,7 @@
 			(xy 64 270.062827) (xy 352 270.062827)
 		)
 		(height 1.937173)
-		(gr_text "288.0 mm"
+		(gr_text "11.3 in"
 			(at 222 272 0)
 			(layer "F.SilkS")
 			(uuid "776192f2-d183-455d-886c-7a3e6dae6b50")
@@ -27564,7 +27566,7 @@
 			(xy 346.45 314.2) (xy 346.4 70.2)
 		)
 		(height -101.52)
-		(gr_text "244.0 mm"
+		(gr_text "9.6 in"
 			(at 246.055002 192.220567 -89.98825906)
 			(layer "F.SilkS")
 			(uuid "8ffe2b1f-d33d-4a74-a52c-03b8eb375ebd")
@@ -27597,7 +27599,7 @@
 			(xy 345.6 314.2) (xy 345.6 325)
 		)
 		(height 5.246903)
-		(gr_text "10.8 mm"
+		(gr_text "0.4 in"
 			(at 339 320.2 90)
 			(layer "F.SilkS")
 			(uuid "cf4bafa4-2d68-4f7e-b50a-edc01b474b02")
@@ -27630,7 +27632,7 @@
 			(xy 105.2 311.45) (xy 349.2 311.45)
 		)
 		(height -60.97)
-		(gr_text "244.0 mm"
+		(gr_text "9.6 in"
 			(at 227.2 249.33 0)
 			(layer "F.SilkS")
 			(uuid "f1bfe9c9-0848-4e28-8074-d3b1e57dd8f8")
@@ -27663,7 +27665,7 @@
 			(xy 64 297.580771) (xy 105.2 297.580771)
 		)
 		(height -2.580771)
-		(gr_text "41.20 mm"
+		(gr_text "1.62 in"
 			(at 91.11 294.670771 0)
 			(layer "F.SilkS")
 			(uuid "f9ad79ea-6823-42ce-888c-c8a4a05c0ca8")
@@ -28097,14 +28099,6 @@
 		(uuid "24c8bcac-aa4a-4c5d-8a86-50bb33d27c6a")
 	)
 	(segment
-		(start 65.2 229.9)
-		(end 61.7 226.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "3175b5bd-e710-4f21-918b-0d0fc51a9789")
-	)
-	(segment
 		(start 56.6 313.4)
 		(end 59 311)
 		(width 0.2)
@@ -28151,14 +28145,6 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "ac065dbf-b437-4eec-a6e4-16f93bcb070a")
-	)
-	(segment
-		(start 58.3 226.4)
-		(end 61.7 226.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "b4208538-b99b-401f-8adf-159bcc865262")
 	)
 	(segment
 		(start 65.2 232.491176)
